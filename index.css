@@ -58,6 +58,7 @@ li a {
   
 .card {
     background-color: white;
+    line-height: 2rem;
     border: solid;
     border-style: dashed;
     border-color:  #f2f2f2;
